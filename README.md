@@ -1,7 +1,7 @@
 # Open Helpdesks
 Comparison of open source helpdesks systems.
 
-Name | Self-Hosted | API | Documentation | Language | Hardware requirements | Activity | Comment
+Name | Self-Hosted | API | Doc | Language | Hardware requirements | Activity | Comment
 --- | --- | --- | --- | --- | --- | --- | --- 
 [Brimir](https://github.com/ivaldi/brimir) | ? | Via mail filtering | ? | Ruby | ? | Active |
 [Deskulu](https://github.com/taskulu/deskulu) | yes | REST | ? | PHP | ? | Inactive |
